@@ -1,5 +1,8 @@
 # HELIX-Pro
 
+[![CI](https://github.com/kapildhinwa2010-dev/HELIX-Pro/actions/workflows/ci.yml/badge.svg)](https://github.com/kapildhinwa2010-dev/HELIX-Pro/actions/workflows/ci.yml)
+[![CodeQL](https://github.com/kapildhinwa2010-dev/HELIX-Pro/actions/workflows/codeql.yml/badge.svg)](https://github.com/kapildhinwa2010-dev/HELIX-Pro/actions/workflows/codeql.yml)
+
 Spiral-addressed byte memory with XOR parity and an integrity report.
 
 ## What it does
