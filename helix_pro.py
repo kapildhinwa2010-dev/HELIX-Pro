@@ -104,7 +104,6 @@ class HelixMemory:
         Detects odd numbers of flipped bits per row; even flips cancel out
         and pass. Parity does not locate the corrupted cell.
         """
-    # (docstring above belongs to verify)
         for row in range(self.size):
             if _xor_parity(self.arena[row]) != int(self.parity[row]):
                 return False
